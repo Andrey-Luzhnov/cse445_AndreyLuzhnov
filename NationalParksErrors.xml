@@ -13,6 +13,7 @@
       <Zip>86023</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark>
     <Name>Yellowstone</Name>
     <Phone>307-344-7381</Phone>
@@ -24,6 +25,7 @@
       <Zip>82190</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark Rating="4.8">
     <Name>Yosemite</Name>
     <Address NearestAirport="Fresno Yosemite International">
@@ -34,6 +36,7 @@
       <Zip>95389</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark>
     <Name>Zion National Park</Name>
     <Phone>435-772-3256</Phone>
@@ -45,6 +48,7 @@
       <Zip>84767</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark Rating="4.7">
     <Name>Great Smoky Mountains</Name>
     <Phone>865-436-1200</Phone>
@@ -57,6 +61,7 @@
       <Zip>37738</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark>
     <Name>Rocky Mountain</Name>
     <Phone>970-586-1206</Phone>
@@ -67,9 +72,10 @@
       <State>CO</State>
       <Zip>80517</Zip>
   </NationalPark>
+
   <NationalPark Rating="4.9">
     <Name>Glacier</Name>
-	<Name>Glacier National Park</Name>
+    <Name>Glacier National Park</Name>
     <Phone>406-888-7800</Phone>
     <Address NearestAirport="Glacier Park International">
       <Number>1</Number>
@@ -79,6 +85,7 @@
       <Zip>59936</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark>
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
@@ -91,6 +98,7 @@
       <Zip>04609</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark Rating="4.7">
     <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
@@ -102,6 +110,7 @@
       <Zip>98362</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark>
     <Name>Everglades</Name>
     <Phone>305-242-7700</Phone>
@@ -113,6 +122,7 @@
       <Zip>33034</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark Rating="4.5">
     <Name>Bryce Canyon</Name>
     <Phone>435-834-5322</Phone>
